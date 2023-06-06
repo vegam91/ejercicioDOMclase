@@ -1,0 +1,12 @@
+#wrapper{
+
+    background-color: blue;
+}
+.item {
+background-color: aqua;
+
+}
+.hidden{
+    display:none; 
+}
+
